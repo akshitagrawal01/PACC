@@ -1,5 +1,7 @@
 # PACC — Pilot-Aided Color Code
 
+[![DOI](https://zenodo.org/badge/1471276748.svg)](https://doi.org/10.5281/zenodo.24522299)
+
 > **Status: research prototype.** This repository accompanies the paper *Pilot-Aided Color Code: a color
 > matrix barcode with spatially varying equalization and soft-decision LDPC decoding* (A. Agrawal and
 > V. R. Tadiboyina, in submission). It contains the code, benchmark and the scripts that regenerate the
