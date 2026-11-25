@@ -1,0 +1,9 @@
+# Runtime dependencies of the pacc package.
+Pillow>=10.0
+numpy>=1.24
+opencv-python>=4.8
+scipy>=1.10          # PACC equaliser (Gaussian filtering)
+cryptography>=50.0   # PACC secure layer (HPKE and ML-DSA)
+argon2-cffi>=21.0    # PACC password KDF
+qrcode>=7.4          # PACC QC: QR-compatible symbols (encoder)
+zxing-cpp>=2.2       # PACC QC: standard QR detection (decoder)

@@ -1,0 +1,197 @@
+room,suite,round,device,item,group,condition,codec,severity,code_type,expect,pass,status,later_passed,time_to_scan_ms,attempts,sim_pass
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-1,N1,32 B,PACC-1-Q,32,PACC,text,True,PASS,False,1280,4,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-2,N1,32 B,PACC-2-Q,32,PACC,text,True,PASS,False,264,2,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-3,N1,32 B,QR-H,32,QR,text,True,PASS,False,130,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-4,N1,128 B,PACC-1-Q,128,PACC,text,True,PASS,False,264,2,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-5,N1,128 B,PACC-2-Q,128,PACC,text,True,PASS,False,305,2,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-6,N1,128 B,QR-H,128,QR,text,True,PASS,False,127,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-7,N1,256 B,PACC-1-Q,256,PACC,text,True,PASS,False,874,5,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-8,N1,256 B,PACC-2-Q,256,PACC,text,True,PASS,False,319,2,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-9,N1,256 B,QR-H,256,QR,text,True,PASS,False,127,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-10,N1,512 B,PACC-1-Q,512,PACC,text,True,PASS,False,4039,21,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-11,N1,512 B,PACC-2-Q,512,PACC,text,True,PASS,False,786,4,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-12,N1,512 B,QR-H,512,QR,text,False,TIMEOUT,False,,,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-13,N1,1024 B,PACC-1-Q,1024,PACC,text,True,PASS,False,262,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-14,N1,1024 B,PACC-2-Q,1024,PACC,text,True,PASS,False,2464,11,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-15,N1,1024 B,QR-H,1024,QR,text,False,TIMEOUT,False,,,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-16,N2,Clean,PACC-1-Q,0,PACC,text,True,PASS,False,318,2,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-17,N2,Clean,PACC-2-Q,0,PACC,text,True,PASS,False,114,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-18,N2,Clean,QR-H,0,QR,text,True,PASS,False,141,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-19,N2,Tilt 40°,PACC-1-Q,40,PACC,text,True,PASS,False,3095,17,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-20,N2,Tilt 40°,PACC-2-Q,40,PACC,text,True,PASS,False,558,3,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-21,N2,Tilt 40°,QR-H,40,QR,text,True,PASS,False,142,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-22,N2,Far away (35 % size),PACC-1-Q,0.35,PACC,text,True,PASS,False,173,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-23,N2,Far away (35 % size),PACC-2-Q,0.35,PACC,text,True,PASS,False,142,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-24,N2,Far away (35 % size),QR-H,0.35,QR,text,True,PASS,False,131,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-25,N2,Out of focus (2 px),PACC-1-Q,2,PACC,text,True,PASS,False,174,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-26,N2,Out of focus (2 px),PACC-2-Q,2,PACC,text,True,PASS,False,197,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-27,N2,Out of focus (2 px),QR-H,2,QR,text,True,PASS,False,136,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-28,N2,Hand shake (9 px),PACC-1-Q,9,PACC,text,True,PASS,False,165,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-29,N2,Hand shake (9 px),PACC-2-Q,9,PACC,text,True,PASS,False,177,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-30,N2,Hand shake (9 px),QR-H,9,QR,text,True,PASS,False,162,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-31,N2,Dim light (noise σ20),PACC-1-Q,20,PACC,text,True,PASS,False,154,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-32,N2,Dim light (noise σ20),PACC-2-Q,20,PACC,text,True,PASS,False,172,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-33,N2,Dim light (noise σ20),QR-H,20,QR,text,True,PASS,False,145,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-34,N2,Cool light,PACC-1-Q,-0.4,PACC,text,True,PASS,False,177,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-35,N2,Cool light,PACC-2-Q,-0.4,PACC,text,True,PASS,False,168,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-36,N2,Cool light,QR-H,-0.4,QR,text,True,PASS,False,156,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-37,N2,Warm light,PACC-1-Q,0.4,PACC,text,True,PASS,False,175,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-38,N2,Warm light,PACC-2-Q,0.4,PACC,text,True,PASS,False,140,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-39,N2,Warm light,QR-H,0.4,QR,text,True,PASS,False,164,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-40,N2,Shadow (60 % darker),PACC-1-Q,0.6,PACC,text,True,PASS,False,544,3,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-41,N2,Shadow (60 % darker),PACC-2-Q,0.6,PACC,text,True,PASS,False,588,3,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-42,N2,Shadow (60 % darker),QR-H,0.6,QR,text,True,PASS,False,137,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-43,N2,Glare (reflection),PACC-1-Q,200,PACC,text,True,PASS,False,159,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-44,N2,Glare (reflection),PACC-2-Q,200,PACC,text,True,PASS,False,196,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-45,N2,Glare (reflection),QR-H,200,QR,text,True,PASS,False,130,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-46,N2,Faded print (55 % colour),PACC-1-Q,0.55,PACC,text,True,PASS,False,168,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-47,N2,Faded print (55 % colour),PACC-2-Q,0.55,PACC,text,True,PASS,False,177,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-48,N2,Faded print (55 % colour),QR-H,0.55,QR,text,True,PASS,False,168,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-49,N2,Printer colour shift 20°,PACC-1-Q,20,PACC,text,True,PASS,False,159,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-50,N2,Printer colour shift 20°,PACC-2-Q,20,PACC,text,True,PASS,False,187,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-51,N2,Printer colour shift 20°,QR-H,20,QR,text,True,PASS,False,141,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-52,N2,JPEG quality 60,PACC-1-Q,60,PACC,text,True,PASS,False,167,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-53,N2,JPEG quality 60,PACC-2-Q,60,PACC,text,True,PASS,False,176,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-54,N2,JPEG quality 60,QR-H,60,QR,text,True,PASS,False,142,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-55,N2,Stains (6 %),PACC-1-Q,0.06,PACC,text,True,PASS,False,160,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-56,N2,Stains (6 %),PACC-2-Q,0.06,PACC,text,True,PASS,False,150,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-57,N2,Stains (6 %),QR-H,0.06,QR,text,True,PASS,False,168,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-58,N2,10 % covered,PACC-1-Q,0.1,PACC,text,True,PASS,False,177,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-59,N2,10 % covered,PACC-2-Q,0.1,PACC,text,False,TIMEOUT,False,,,False
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-60,N2,10 % covered,QR-H,0.1,QR,text,True,PASS,False,144,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-61,N2,Crease (12 px),PACC-1-Q,12,PACC,text,True,PASS,False,163,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-62,N2,Crease (12 px),PACC-2-Q,12,PACC,text,True,PASS,False,188,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-63,N2,Crease (12 px),QR-H,12,QR,text,True,PASS,False,152,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-64,N2,Everyday: dim restaurant table,PACC-1-Q,3,PACC,text,True,PASS,False,1060,5,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-65,N2,Everyday: dim restaurant table,PACC-2-Q,3,PACC,text,True,PASS,False,265,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-66,N2,Everyday: dim restaurant table,QR-H,3,QR,text,True,PASS,False,3475,25,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-67,N5,Plain,PACC-1-Q,,PACC,text,True,PASS,False,165,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-68,N5,"Ed25519, key embedded",PACC-1-Q,,PACC,signed,True,PASS,False,210,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-69,N5,"Ed25519, key id",PACC-1-Q,,PACC,signed,True,PASS,False,154,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-70,N5,"ML-DSA-44, key id",PACC-1-Q,,PACC,signed,False,TIMEOUT,False,,,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-71,N5,Passphrase,PACC-1-Q,,PACC,text,True,PASS,False,317,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-72,N5,"To key, X25519",PACC-1-Q,,PACC,text,True,PASS,False,183,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-73,N5,"To key, X-Wing (PQ)",PACC-1-Q,,PACC,text,True,PASS,False,5108,23,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-74,N5,Tampered after signing,PACC-1-Q,,PACC,reject,True,PASS,False,225,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-75,N6,"Dim light σ15, moving reflection",PACC-1-Q,15,PACC,text,True,PASS,False,602,3,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-76,N6,"Dim light σ15, moving reflection",QR-H,15,QR,text,True,PASS,False,529,4,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-77,N6,"Dim light σ25, moving reflection",PACC-1-Q,25,PACC,text,True,PASS,False,181,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-78,N6,"Dim light σ25, moving reflection",QR-H,25,QR,text,True,PASS,False,263,2,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-79,N6,"Dim light σ35, moving reflection",PACC-1-Q,35,PACC,text,True,PASS,False,176,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-80,N6,"Dim light σ35, moving reflection",QR-H,35,QR,text,True,PASS,False,137,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-81,N7,Layered coarse,PACC layered,,PACC,coarse,True,PASS,False,322,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-82,N7,Layered fine,PACC layered,,PACC,fine,True,PASS,False,372,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-83,N7,Layered coarse,PACC layered,,PACC,coarse,True,PASS,False,278,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-84,N7,Layered fine,PACC layered,,PACC,fine,True,PASS,False,274,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-85,N7,QR plain · Clean,QR-M,,QR,text,True,PASS,False,146,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-86,N7,QC visible · Clean,PACC QC,,QR,text,True,PASS,False,112,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-87,N7,QC hidden · Clean,PACC QC,,PACC_QC,qc_hidden,True,PASS,False,193,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-88,N7,QR plain · Warm light,QR-M,,QR,text,True,PASS,False,138,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-89,N7,QC visible · Warm light,PACC QC,,QR,text,True,PASS,False,106,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-90,N7,QC hidden · Warm light,PACC QC,,PACC_QC,qc_hidden,True,PASS,False,178,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-91,N7,QR plain · Dim light,QR-M,,QR,text,True,PASS,False,151,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-92,N7,QC visible · Dim light,PACC QC,,QR,text,True,PASS,False,84,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-93,N7,QC hidden · Dim light,PACC QC,,PACC_QC,qc_hidden,True,PASS,False,162,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-94,N7,QR plain · Glare,QR-M,,QR,text,True,PASS,False,151,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-95,N7,QC visible · Glare,PACC QC,,QR,text,True,PASS,False,118,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-96,N7,QC hidden · Glare,PACC QC,,PACC_QC,qc_hidden,True,PASS,False,174,1,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-97,Stream,512 B,PACC stream 48×48,512,PACC,text,True,PASS,False,356,2,True
+1948,paper_set,1,Android KB2001 (Android 14),paper_set-98,Stream,1500 B,PACC stream 64×64,1500,PACC,text,True,PASS,False,819,4,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-1,N1,32 B,PACC-1-Q,32,PACC,text,True,PASS,False,1151,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-2,N1,32 B,PACC-2-Q,32,PACC,text,True,PASS,False,103,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-3,N1,32 B,QR-H,32,QR,text,True,PASS,False,126,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-4,N1,128 B,PACC-1-Q,128,PACC,text,True,PASS,False,149,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-5,N1,128 B,PACC-2-Q,128,PACC,text,True,PASS,False,164,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-6,N1,128 B,QR-H,128,QR,text,True,PASS,False,137,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-7,N1,256 B,PACC-1-Q,256,PACC,text,True,PASS,False,383,2,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-8,N1,256 B,PACC-2-Q,256,PACC,text,True,PASS,False,210,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-9,N1,256 B,QR-H,256,QR,text,True,PASS,False,124,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-10,N1,512 B,PACC-1-Q,512,PACC,text,True,PASS,False,716,3,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-11,N1,512 B,PACC-2-Q,512,PACC,text,True,PASS,False,231,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-12,N1,512 B,QR-H,512,QR,text,True,PASS,False,3553,27,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-13,N1,1024 B,PACC-1-Q,1024,PACC,text,True,PASS,False,941,4,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-14,N1,1024 B,PACC-2-Q,1024,PACC,text,True,PASS,False,940,3,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-15,N1,1024 B,QR-H,1024,QR,text,False,TIMEOUT,False,,,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-16,N2,Clean,PACC-1-Q,0,PACC,text,True,PASS,False,147,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-17,N2,Clean,PACC-2-Q,0,PACC,text,True,PASS,False,139,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-18,N2,Clean,QR-H,0,QR,text,True,PASS,False,143,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-19,N2,Tilt 40°,PACC-1-Q,40,PACC,text,True,PASS,False,7769,38,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-20,N2,Tilt 40°,PACC-2-Q,40,PACC,text,True,PASS,False,130,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-21,N2,Tilt 40°,QR-H,40,QR,text,True,PASS,False,126,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-22,N2,Far away (35 % size),PACC-1-Q,0.35,PACC,text,True,PASS,False,137,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-23,N2,Far away (35 % size),PACC-2-Q,0.35,PACC,text,True,PASS,False,117,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-24,N2,Far away (35 % size),QR-H,0.35,QR,text,True,PASS,False,123,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-25,N2,Out of focus (2 px),PACC-1-Q,2,PACC,text,True,PASS,False,150,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-26,N2,Out of focus (2 px),PACC-2-Q,2,PACC,text,True,PASS,False,102,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-27,N2,Out of focus (2 px),QR-H,2,QR,text,True,PASS,False,126,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-28,N2,Hand shake (9 px),PACC-1-Q,9,PACC,text,True,PASS,False,149,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-29,N2,Hand shake (9 px),PACC-2-Q,9,PACC,text,True,PASS,False,158,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-30,N2,Hand shake (9 px),QR-H,9,QR,text,True,PASS,False,138,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-31,N2,Dim light (noise σ20),PACC-1-Q,20,PACC,text,True,PASS,False,146,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-32,N2,Dim light (noise σ20),PACC-2-Q,20,PACC,text,True,PASS,False,116,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-33,N2,Dim light (noise σ20),QR-H,20,QR,text,True,PASS,False,121,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-34,N2,Cool light,PACC-1-Q,-0.4,PACC,text,True,PASS,False,162,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-35,N2,Cool light,PACC-2-Q,-0.4,PACC,text,True,PASS,False,137,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-36,N2,Cool light,QR-H,-0.4,QR,text,True,PASS,False,147,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-37,N2,Warm light,PACC-1-Q,0.4,PACC,text,True,PASS,False,136,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-38,N2,Warm light,PACC-2-Q,0.4,PACC,text,True,PASS,False,110,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-39,N2,Warm light,QR-H,0.4,QR,text,True,PASS,False,142,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-40,N2,Shadow (60 % darker),PACC-1-Q,0.6,PACC,text,True,PASS,False,168,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-41,N2,Shadow (60 % darker),PACC-2-Q,0.6,PACC,text,True,PASS,False,229,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-42,N2,Shadow (60 % darker),QR-H,0.6,QR,text,True,PASS,False,121,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-43,N2,Glare (reflection),PACC-1-Q,200,PACC,text,True,PASS,False,140,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-44,N2,Glare (reflection),PACC-2-Q,200,PACC,text,True,PASS,False,124,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-45,N2,Glare (reflection),QR-H,200,QR,text,True,PASS,False,129,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-46,N2,Faded print (55 % colour),PACC-1-Q,0.55,PACC,text,True,PASS,False,149,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-47,N2,Faded print (55 % colour),PACC-2-Q,0.55,PACC,text,True,PASS,False,143,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-48,N2,Faded print (55 % colour),QR-H,0.55,QR,text,True,PASS,False,135,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-49,N2,Printer colour shift 20°,PACC-1-Q,20,PACC,text,True,PASS,False,155,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-50,N2,Printer colour shift 20°,PACC-2-Q,20,PACC,text,True,PASS,False,138,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-51,N2,Printer colour shift 20°,QR-H,20,QR,text,True,PASS,False,133,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-52,N2,JPEG quality 60,PACC-1-Q,60,PACC,text,True,PASS,False,143,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-53,N2,JPEG quality 60,PACC-2-Q,60,PACC,text,True,PASS,False,153,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-54,N2,JPEG quality 60,QR-H,60,QR,text,True,PASS,False,118,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-55,N2,Stains (6 %),PACC-1-Q,0.06,PACC,text,True,PASS,False,7545,33,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-56,N2,Stains (6 %),PACC-2-Q,0.06,PACC,text,True,PASS,False,5892,26,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-57,N2,Stains (6 %),QR-H,0.06,QR,text,True,PASS,False,127,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-58,N2,10 % covered,PACC-1-Q,0.1,PACC,text,True,PASS,False,162,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-59,N2,10 % covered,PACC-2-Q,0.1,PACC,text,False,TIMEOUT,False,,,False
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-60,N2,10 % covered,QR-H,0.1,QR,text,True,PASS,False,132,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-61,N2,Crease (12 px),PACC-1-Q,12,PACC,text,True,PASS,False,1563,13,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-62,N2,Crease (12 px),PACC-2-Q,12,PACC,text,True,PASS,False,170,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-63,N2,Crease (12 px),QR-H,12,QR,text,True,PASS,False,121,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-64,N2,Everyday: dim restaurant table,PACC-1-Q,3,PACC,text,True,PASS,False,3292,18,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-65,N2,Everyday: dim restaurant table,PACC-2-Q,3,PACC,text,True,PASS,False,1921,8,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-66,N2,Everyday: dim restaurant table,QR-H,3,QR,text,False,TIMEOUT,False,,,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-67,N5,Plain,PACC-1-Q,,PACC,text,True,PASS,False,147,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-68,N5,"Ed25519, key embedded",PACC-1-Q,,PACC,signed,True,PASS,False,149,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-69,N5,"Ed25519, key id",PACC-1-Q,,PACC,signed,True,PASS,False,157,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-70,N5,"ML-DSA-44, key id",PACC-1-Q,,PACC,signed,False,TIMEOUT,False,,,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-71,N5,Passphrase,PACC-1-Q,,PACC,text,True,PASS,False,325,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-72,N5,"To key, X25519",PACC-1-Q,,PACC,text,True,PASS,False,150,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-73,N5,"To key, X-Wing (PQ)",PACC-1-Q,,PACC,text,True,PASS,False,7670,39,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-74,N5,Tampered after signing,PACC-1-Q,,PACC,reject,True,PASS,False,229,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-75,N6,"Dim light σ15, moving reflection",PACC-1-Q,15,PACC,text,True,PASS,False,603,3,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-76,N6,"Dim light σ15, moving reflection",QR-H,15,QR,text,True,PASS,False,759,6,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-77,N6,"Dim light σ25, moving reflection",PACC-1-Q,25,PACC,text,True,PASS,False,160,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-78,N6,"Dim light σ25, moving reflection",QR-H,25,QR,text,True,PASS,False,390,3,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-79,N6,"Dim light σ35, moving reflection",PACC-1-Q,35,PACC,text,True,PASS,False,162,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-80,N6,"Dim light σ35, moving reflection",QR-H,35,QR,text,True,PASS,False,138,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-81,N7,Layered coarse,PACC layered,,PACC,coarse,True,PASS,False,285,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-82,N7,Layered fine,PACC layered,,PACC,fine,True,PASS,False,387,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-83,N7,Layered coarse,PACC layered,,PACC,coarse,True,PASS,False,345,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-84,N7,Layered fine,PACC layered,,PACC,fine,True,PASS,False,233,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-85,N7,QR plain · Clean,QR-M,,QR,text,True,PASS,False,144,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-86,N7,QC visible · Clean,PACC QC,,QR,text,True,PASS,False,109,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-87,N7,QC hidden · Clean,PACC QC,,PACC_QC,qc_hidden,True,PASS,False,169,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-88,N7,QR plain · Warm light,QR-M,,QR,text,True,PASS,False,128,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-89,N7,QC visible · Warm light,PACC QC,,QR,text,True,PASS,False,123,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-90,N7,QC hidden · Warm light,PACC QC,,PACC_QC,qc_hidden,True,PASS,False,170,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-91,N7,QR plain · Dim light,QR-M,,QR,text,True,PASS,False,144,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-92,N7,QC visible · Dim light,PACC QC,,QR,text,True,PASS,False,122,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-93,N7,QC hidden · Dim light,PACC QC,,PACC_QC,qc_hidden,True,PASS,False,151,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-94,N7,QR plain · Glare,QR-M,,QR,text,True,PASS,False,129,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-95,N7,QC visible · Glare,PACC QC,,QR,text,True,PASS,False,111,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-96,N7,QC hidden · Glare,PACC QC,,PACC_QC,qc_hidden,True,PASS,False,163,1,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-97,Stream,512 B,PACC stream 48×48,512,PACC,text,True,PASS,False,323,2,True
+2714,paper_set,1,Android CPH2717 (Android 16),paper_set-98,Stream,1500 B,PACC stream 64×64,1500,PACC,text,True,PASS,False,1076,4,True

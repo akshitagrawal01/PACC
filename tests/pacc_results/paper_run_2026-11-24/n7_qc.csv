@@ -1,0 +1,10 @@
+distortion,value,plain_qr_read_pct,tinted_qr_read_pct,hidden_channel_pct
+clean,0,100.0,100.0,100.0
+gaussian_noise_sigma,20,100.0,100.0,100.0
+gaussian_blur_px,2,100.0,100.0,100.0
+jpeg_quality,60,100.0,100.0,100.0
+downscale,0.35,100.0,100.0,100.0
+white_balance,0.4,100.0,100.0,100.0
+yaw_deg,40,100.0,100.0,100.0
+glare_intensity,200,100.0,96.7,96.7
+everyday,2,100.0,100.0,100.0

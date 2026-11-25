@@ -1,0 +1,17 @@
+# Pinned Dependencies for PACC Academic Benchmark Suite v2
+# Verified under Python 3.12 on Windows AMD64
+
+argon2-cffi==25.1.0
+argon2-cffi-bindings==25.1.0
+cryptography==50.0.0
+opencv-python==5.0.0.93
+matplotlib==3.11.1
+numpy==2.5.1
+pandas==3.0.5
+pillow==12.3.0
+psutil==7.2.2
+qrcode==8.2
+reedsolo==1.7.0
+scipy==1.18.0
+seaborn==0.13.2
+zxing-cpp==3.1.1

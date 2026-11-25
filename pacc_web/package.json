@@ -1,0 +1,43 @@
+{
+  "name": "pacc_web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "npm run test:pacc",
+    "test:pacc": "jiti scripts/pacc_parity.ts && jiti scripts/pacc_images.ts && jiti scripts/pacc_secure.ts && jiti scripts/pacc_qc.ts && jiti scripts/pacc_layered.ts",
+    "test:lab": "jiti scripts/test_lab_items.ts",
+    "test:distance": "jiti scripts/pacc_distance.ts"
+  },
+  "dependencies": {
+    "@noble/ciphers": "^2.4.0",
+    "@noble/curves": "^2.4.0",
+    "@noble/hashes": "^2.4.0",
+    "@noble/post-quantum": "^0.7.1",
+    "@types/pako": "^2.0.4",
+    "@types/qrcode": "^1.5.6",
+    "hash-wasm": "^4.12.0",
+    "lucide-react": "^1.43.0",
+    "next": "16.3.4",
+    "pako": "^3.0.1",
+    "qrcode": "^1.5.4",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "zxing-wasm": "^3.1.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "cloudflared": "^0.7.3",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.4",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

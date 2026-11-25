@@ -1,0 +1,7 @@
+codec,noise_sigma,trials,single_frame_pct,any_frame_within_1_pct,combined_within_1_pct,any_frame_within_2_pct,combined_within_2_pct,any_frame_within_3_pct,combined_within_3_pct,any_frame_within_4_pct,combined_within_4_pct,any_frame_within_5_pct,combined_within_5_pct,any_frame_within_6_pct,combined_within_6_pct,any_frame_within_7_pct,combined_within_7_pct,any_frame_within_8_pct,combined_within_8_pct
+PACC-1-Q,15,30,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+PACC-1-Q,25,30,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+PACC-1-Q,35,30,90.0,90.0,90.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+QR-H,15,30,53.3,53.3,,90.0,,96.7,,96.7,,100.0,,100.0,,100.0,,100.0,
+QR-H,25,30,63.3,63.3,,76.7,,93.3,,100.0,,100.0,,100.0,,100.0,,100.0,
+QR-H,35,30,43.3,43.3,,63.3,,76.7,,93.3,,96.7,,96.7,,96.7,,96.7,
